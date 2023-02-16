@@ -20,9 +20,11 @@
       "listsBlocks": false
     },
     "simulator": {
-        "autoRun": true
+        "autoRun": false,
+        "headless": true
     },
     "appTheme": {
+        "allowParentController": true,
         "logoUrl": "https://github.com/Microsoft/pxt-sample",
         "homeUrl": "http://microsoft.github.io/pxt-sample/",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
