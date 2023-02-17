@@ -56,10 +56,10 @@
         "simAnimationEnter": "fly right in",
         "simAnimationExit": "fly right out",
         "scriptManager": true,
-        "debugger": true,
+        "debugger": false,
         "print": true,
         "highContrast": true,
-        "python": true,
+        "python": false,
         "greenScreen": true,
         "monacoColors": {
             "editor.background": "#ecf0f1"
